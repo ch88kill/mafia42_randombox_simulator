@@ -4,4 +4,4 @@
 ## install
     -그냥 exe파일 실행
 ## credit(?)
-    -[official cafe](https://cafe.naver.com/mafia42/1493470)
+    - [official cafe](https://cafe.naver.com/mafia42/1493470)
