@@ -5,4 +5,4 @@
     그냥 exe파일 실행
 ## credit(?)
 a huge thanks to
-   - [official cafe] (https://cafe.naver.com/mafia42/1493470 "마피아42 공식카페로 이동.")
+   - [official cafe](https://cafe.naver.com/mafia42/1493470 "마피아42 공식카페로 이동.")
